@@ -1,7 +1,18 @@
 h1, p {
-    color:coral
+    color:coral;
 }
 
 .edit {
-    background-color:blueviolet
+    background-color:blueviolet;
 }
+span{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+.last{
+    border: 10px lightgreen ridge;
+    margin: 5px;
+}  
+
